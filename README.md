@@ -1,1 +1,1 @@
-# KanyeWest-QuoteGenerator
+# This was a random project using API's and Python's Tkinter package module. Here is a fun UI with all of Kanye West interesting quotes. Click on Kanye's head and a new quote will appear. Let me know which one stood out to you!
